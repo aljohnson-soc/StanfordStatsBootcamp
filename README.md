@@ -7,8 +7,8 @@ Materials for the Stanford Sociology Department's Statistics Bootcamp, developed
 3. Encourage collaboration and camaraderie among the graduate student cohort.
 
 **Day 1**: mindset, descriptive & inferential statistics, summary statistics, and Stata workshop  
-**Day 2**: graphing, exponents/logarithms, sampling distributions, and statistical significance 
-**Day 3**: probability basics, file structure, and data workflow  
+**Day 2**: graphing, exponents/logarithms, sampling distributions, and statistical significance   
+**Day 3**: probability basics, file structure, and data workflow   
 **Day 4**: variable types, functions, lines of best fit, prediction equations  
 **Day 5**: matrix algebra basics, reading calculus    
 
