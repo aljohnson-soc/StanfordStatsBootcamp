@@ -77,9 +77,9 @@ Materials for the Stanford Sociology Department's Statistics Bootcamp, developed
 
 ## Day 5
 ### Learning objectives
-...understand what a matrix and a vector are, and how to multiple vectors with matrices. 
-...be able to represent a prediction equation in matrix notation. 
-...read the notation of, understand, and interpret basic calculus relevant to a statistics context (e.g. limits, derivatives, integrals). 
+...understand what a matrix and a vector are, and how to multiple vectors with matrices.   
+...be able to represent a prediction equation in matrix notation.   
+...read the notation of, understand, and interpret basic calculus relevant to a statistics context (e.g. limits, derivatives, integrals).   
 
 ### Agenda
 - Vectors, matrices, vector with matrix multiplication
