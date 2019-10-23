@@ -51,6 +51,7 @@ Materials for the Stanford Sociology Department's Statistics Bootcamp, developed
 ### Materials
 - [Powerpoint](BootcampDay2_2019.pdf)
 - [Handout on exponents and logarithms](Day2_ExponentsLogsPractice.pdf)
+- [Data](BootcampDay2.dta)
 
 ## Day 3
 ### Learning objectives
@@ -88,6 +89,7 @@ Materials for the Stanford Sociology Department's Statistics Bootcamp, developed
 ### Materials
 - [Powerpoint](BootcampDay4_2019.pdf)
 - [Variable categorization exercise](Day4_VariableCategorization.pdf)
+- Stata [.do file](Day4_ScatterplotsBasicregression.do), data sets ([1](TwitterCelebrities.dta), [2](TwoMoreExamples.dta), and [3](CPSMarch2000.dta))
 
 
 ## Day 5
