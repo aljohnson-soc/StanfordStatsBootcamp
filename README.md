@@ -34,6 +34,7 @@ Materials for the Stanford Sociology Department's Statistics Bootcamp, developed
 
 ### Materials
 - [Powerpoint](BootcampDay1_2019.pdf)
+- [Mindset quiz](MindsetQuiz.docx)
 - [Stata Workshop](https://aljohnson-soc.github.io/StataWorkshop/)
 
 ## Day 2
