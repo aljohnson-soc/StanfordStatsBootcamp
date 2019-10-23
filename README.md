@@ -1,11 +1,11 @@
 Materials for the Stanford Sociology Department's Statistics Bootcamp, developed by Amy L. Johnson, Rebecca Gleit, and Nick Sherefkin.
 
-## Overview of the Week
-### Goals
+## Goals
 1. Increase students’ understanding of and confidence with basic statistical concepts.
 2. Build students’ programming intuition and data management skills.
 3. Encourage collaboration and camaraderie among the graduate student cohort.
 
+## Overview
 **Day 1**: mindset, descriptive & inferential statistics, summary statistics, and Stata workshop  
 **Day 2**: graphing, exponents/logarithms, sampling distributions, and statistical significance   
 **Day 3**: probability basics, file structure, and data workflow   
