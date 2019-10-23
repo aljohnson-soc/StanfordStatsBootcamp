@@ -1,4 +1,4 @@
-Materials for the Stanford Sociology Department's Statistics Bootcamp, developed by Amy L. Johnson, Rebecca Gleit, and Nick Sherefkin.
+Materials for the Stanford Sociology Department's Statistics Bootcamp, developed by PhD students [Amy L. Johnson](https://sociology.stanford.edu/people/amy-l-johnson), [Rebecca Gleit](https://sociology.stanford.edu/people/rebecca-gleit), and [Nick Sherefkin](https://sociology.stanford.edu/people/nick-sherefkin).
 
 ## Goals
 1. Increase students’ understanding of and confidence with basic statistical concepts.
@@ -32,31 +32,41 @@ Materials for the Stanford Sociology Department's Statistics Bootcamp, developed
 - Mean, median, mode, standard deviation
 - Introduction to Stata workshop
 
+### Materials
+- [Powerpoint](BootcampDay1_2019.pdf)
+- [Stata Workshop](https://aljohnson-soc.github.io/StataWorkshop/)
+
 ## Day 2
-### Learning objectives
-...present data as graphs and tables.  
-...transform data into useful units.  
+### Learning objectives 
 ...conduct basic exponent and logarithm computations.  
+...present data as graphs and tables.  
 ...explain the difference between a population distribution, sample distribution, and a sampling distribution.  
 ...explain the logic of statistical significance and repeated sampling.  
 
 ### Agenda
-- Representing data by hand
-- Practice generating tables/graphs in Stata
 - Exponents and logarithms: Properties, basic calculations, and why they can come in handy with statistics
-- Distribution activity
+- Practice generating tables/graphs in Stata
 - Statistical significance and repeated sampling
-- Discuss recent challenges to null hypothesis significance testing
+
+### Materials
+- [Powerpoint](BootcampDay2_2019.pdf)
+- [Handout on exponents and logarithms](Day2_ExponentsLogsPractice.pdf)
 
 ## Day 3
 ### Learning objectives
-...use probability notation to communicate foundational of probability concepts: counting rules, operations on sets, expected value, conditional probability, independence.  
+...read and use probability notation to describe a situation with bounded uncertainty.  
+...explain some ways that probabilistic model assumptions can undermine our models of society.  
 ...setup a friendly file structure to manage data and programming workflow.  
 
 ### Agenda
-- Union/intersection notation with Venn diagrams to link to Monday’s Stata workshop
-- Translating probability notation to English and English to probability notation
-- Folder disaster cleanup
+- Set notation and probability
+- Translating between English and probability notation
+- Sampling distributions and hypothesis testing
+- Organizing data and workflow
+
+### Materials
+- [Powerpoint](BootcampDay3_2019.pdf)
+- [Handouts on set notation and workflow exercise](Day3_SetNotationWorkflow.pdf)
 
 ## Day 4
 ### Learning objectives
@@ -75,6 +85,11 @@ Materials for the Stanford Sociology Department's Statistics Bootcamp, developed
 - Overview of prediction equations
 - Stata practice with graphing and simple regression
 
+### Materials
+- [Powerpoint](BootcampDay4_2019.pdf)
+- [Variable categorization exercise](Day4_VariableCategorization.pdf)
+
+
 ## Day 5
 ### Learning objectives
 ...understand what a matrix and a vector are, and how to multiple vectors with matrices.   
@@ -88,3 +103,11 @@ Materials for the Stanford Sociology Department's Statistics Bootcamp, developed
     - Derivatives (and finding maximum or minimum of a function)
     - Integrals
 - Interpreting bootcamp topics through the lens of calculus
+
+### Materials
+- [Powerpoint](BootcampDay5_2019.pdf)
+- [Matrix operation exercise](Day5_MatrixOperations.pdf)
+
+## About
+The Statistics Bootcamp was originally developed in 2017 by then-PhD students [Emily Carian](https://www.csusb.edu/profile/emily.carian) and John Muñoz, and current PhD student Rebecca Gleit. It is funded by Stanford's Institute for Research in the Social Sciences ([IRiSS](https://iriss.stanford.edu/)).
+
