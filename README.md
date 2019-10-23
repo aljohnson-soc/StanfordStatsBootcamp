@@ -32,11 +32,6 @@ Materials for the Stanford Sociology Department's Statistics Bootcamp, developed
 - Mean, median, mode, standard deviation
 - Introduction to Stata workshop
 
-### Materials
-- [Powerpoint](BootcampDay1_2019.pdf)
-- [Mindset quiz](MindsetQuiz.docx)
-- [Stata Workshop](https://aljohnson-soc.github.io/StataWorkshop/)
-
 ## Day 2
 ### Learning objectives 
 ...conduct basic exponent and logarithm computations.  
@@ -49,11 +44,6 @@ Materials for the Stanford Sociology Department's Statistics Bootcamp, developed
 - Practice generating tables/graphs in Stata
 - Statistical significance and repeated sampling
 
-### Materials
-- [Powerpoint](BootcampDay2_2019.pdf)
-- [Handout on exponents and logarithms](Day2_ExponentsLogsPractice.pdf)
-- [Data](BootcampDay2.dta)
-
 ## Day 3
 ### Learning objectives
 ...read and use probability notation to describe a situation with bounded uncertainty.  
@@ -65,10 +55,6 @@ Materials for the Stanford Sociology Department's Statistics Bootcamp, developed
 - Translating between English and probability notation
 - Sampling distributions and hypothesis testing
 - Organizing data and workflow
-
-### Materials
-- [Powerpoint](BootcampDay3_2019.pdf)
-- [Handouts on set notation and workflow exercise](Day3_SetNotationWorkflow.pdf)
 
 ## Day 4
 ### Learning objectives
@@ -87,11 +73,6 @@ Materials for the Stanford Sociology Department's Statistics Bootcamp, developed
 - Overview of prediction equations
 - Stata practice with graphing and simple regression
 
-### Materials
-- [Powerpoint](BootcampDay4_2019.pdf)
-- [Variable categorization exercise](Day4_VariableCategorization.pdf)
-- Stata [.do file](Day4_ScatterplotsBasicregression.do), data sets ([1](TwitterCelebrities.dta), [2](TwoMoreExamples.dta), and [3](CPSMarch2000.dta))
-
 
 ## Day 5
 ### Learning objectives
@@ -107,10 +88,5 @@ Materials for the Stanford Sociology Department's Statistics Bootcamp, developed
     - Integrals
 - Interpreting bootcamp topics through the lens of calculus
 
-### Materials
-- [Powerpoint](BootcampDay5_2019.pdf)
-- [Matrix operation exercise](Day5_MatrixOperations.pdf)
-
 ## About
 The Statistics Bootcamp was originally developed in 2017 by then-PhD students [Emily Carian](https://www.csusb.edu/profile/emily.carian) and John Muñoz, and current PhD student Rebecca Gleit. It is funded by Stanford's Institute for Research in the Social Sciences ([IRiSS](https://iriss.stanford.edu/)).
-
