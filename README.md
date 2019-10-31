@@ -1,4 +1,4 @@
-Materials for the Stanford Sociology Department's Statistics Bootcamp, developed by PhD students [Amy L. Johnson](https://sociology.stanford.edu/people/amy-l-johnson), [Rebecca Gleit](https://sociology.stanford.edu/people/rebecca-gleit), and [Nick Sherefkin](https://sociology.stanford.edu/people/nick-sherefkin).
+Materials for the Stanford Sociology Department's Statistics Bootcamp, developed by PhD students [Amy L. Johnson](https://sites.google.com/stanford.edu/amyljohnson/home), [Rebecca Gleit](https://sociology.stanford.edu/people/rebecca-gleit), and [Nick Sherefkin](https://sociology.stanford.edu/people/nick-sherefkin).
 
 ## Goals
 1. Increase students’ understanding of and confidence with basic statistical concepts.
