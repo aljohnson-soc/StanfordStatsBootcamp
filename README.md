@@ -83,7 +83,7 @@ The statistics bootcamp prepares incoming PhD students for the Sociology statist
 ...read the notation of, understand, and interpret basic calculus relevant to a statistics context (e.g. limits, derivatives, integrals).   
 
 ### Agenda
-- Vectors, matrices, vector with matrix multiplication
+- Vectors, matrices, vectors with matrix multiplication
 - Calculus: concepts and interpretation, notation, some basic calculations, and how this relates to statistics
     - Limits
     - Derivatives (and finding maximum or minimum of a function)
