@@ -1,0 +1,94 @@
+I"�<p><strong>Day 1</strong>: mindset, descriptive &amp; inferential statistics, summary statistics, and Stata workshop<br />
+<strong>Day 2</strong>: graphing, exponents/logarithms, sampling distributions, and statistical significance <br />
+<strong>Day 3</strong>: probability basics, file structure, and data workflow <br />
+<strong>Day 4</strong>: variable types, functions, lines of best fit, prediction equations<br />
+<strong>Day 5</strong>: matrix algebra basics, reading calculus</p>
+
+<p><em>A PDF version of this overview for the 2019 Bootcamp is available <a href="StatsBootcamp2019_Overview.pdf">here</a>.</em></p>
+
+<h2 id="day-1">Day 1</h2>
+<h3 id="learning-objectives">Learning objectives</h3>
+<p>…understand the concept of growth mindset and how it applies to math.<br />
+…explain the difference between descriptive and inferential statistics.<br />
+…calculate mean, median, mode, and standard deviation.<br />
+…understand how data are stored in Stata.<br />
+…use logical if-statements to subset data.<br />
+…use a .do file to write reproducible code.<br />
+…begin to use functions to manipulate data. (e.g. variable creation).</p>
+
+<h3 id="agenda">Agenda</h3>
+<ul>
+  <li>Introductions</li>
+  <li>Mindset quiz and video about growth mindset</li>
+  <li>Descriptive vs inferential statistics</li>
+  <li>Summary statistics</li>
+  <li>Mean, median, mode, standard deviation</li>
+  <li>Introduction to Stata workshop</li>
+</ul>
+
+<h2 id="day-2">Day 2</h2>
+<h3 id="learning-objectives-1">Learning objectives</h3>
+<p>…conduct basic exponent and logarithm computations.<br />
+…present data as graphs and tables.<br />
+…explain the difference between a population distribution, sample distribution, and a sampling distribution.<br />
+…explain the logic of statistical significance and repeated sampling.</p>
+
+<h3 id="agenda-1">Agenda</h3>
+<ul>
+  <li>Exponents and logarithms: Properties, basic calculations, and why they can come in handy with statistics</li>
+  <li>Practice generating tables/graphs in Stata</li>
+  <li>Statistical significance and repeated sampling</li>
+</ul>
+
+<h2 id="day-3">Day 3</h2>
+<h3 id="learning-objectives-2">Learning objectives</h3>
+<p>…read and use probability notation to describe a situation with bounded uncertainty.<br />
+…explain some ways that probabilistic model assumptions can undermine our models of society.<br />
+…setup a friendly file structure to manage data and programming workflow.</p>
+
+<h3 id="agenda-2">Agenda</h3>
+<ul>
+  <li>Set notation and probability</li>
+  <li>Translating between English and probability notation</li>
+  <li>Sampling distributions and hypothesis testing</li>
+  <li>Organizing data and workflow</li>
+</ul>
+
+<h2 id="day-4">Day 4</h2>
+<h3 id="learning-objectives-3">Learning objectives</h3>
+<p>…categorize variables according to their type. <br />
+…understand the difference between a function and a relation. <br />
+…explain the meaning of the slope of a line.<br />
+…draw a line of best fit and justify its location.<br />
+…describe the relationship between two variables in words, graph form, and equation form. <br />
+…understand the purpose of prediction equations and how to use them.</p>
+
+<h3 id="agenda-3">Agenda</h3>
+<ul>
+  <li>Types of variables</li>
+  <li>Relations vs functions</li>
+  <li>Equation of a line</li>
+  <li>Line of best fit (real example)</li>
+  <li>Overview of prediction equations</li>
+  <li>Stata practice with graphing and simple regression</li>
+</ul>
+
+<h2 id="day-5">Day 5</h2>
+<h3 id="learning-objectives-4">Learning objectives</h3>
+<p>…understand what a matrix and a vector are, and how to multiple vectors with matrices. <br />
+…be able to represent a prediction equation in matrix notation. <br />
+…read the notation of, understand, and interpret basic calculus relevant to a statistics context (e.g. limits, derivatives, integrals).</p>
+
+<h3 id="agenda-4">Agenda</h3>
+<ul>
+  <li>Vectors, matrices, vectors with matrix multiplication</li>
+  <li>Calculus: concepts and interpretation, notation, some basic calculations, and how this relates to statistics
+    <ul>
+      <li>Limits</li>
+      <li>Derivatives (and finding maximum or minimum of a function)</li>
+      <li>Integrals</li>
+    </ul>
+  </li>
+  <li>Interpreting bootcamp topics through the lens of calculus</li>
+</ul>
+:ET
