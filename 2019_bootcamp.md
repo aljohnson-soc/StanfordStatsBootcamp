@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Overview
-permalink: /overview/
+title: 2019
+permalink: /2019/
 ---
 
 **Day 1**: mindset, descriptive & inferential statistics, summary statistics, and Stata workshop  
