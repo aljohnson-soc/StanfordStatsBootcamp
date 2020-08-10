@@ -10,6 +10,8 @@ Nothing!
 ### Synchronous session
 Link to slides (coming soon!)
 
+Stata workshop [handout](https://docs.google.com/document/d/1o_bondGoTSTnz9bxJgS52EVVZArGABixCmM985AW77U/edit).
+
 **Learning objectives**
 - understand the concept of growth mindset and how it applies to math.  
 - explain the difference between descriptive and inferential statistics.  

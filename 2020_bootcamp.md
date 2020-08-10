@@ -5,4 +5,4 @@ permalink: /2020/
 ---
 In progress...
 
-### [Module 1](2020_bootcamp_m1.md)
+### [Module 1](2020/2020_bootcamp_m1.md)
