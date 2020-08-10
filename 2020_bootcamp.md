@@ -3,6 +3,6 @@ layout: page
 title: 2020
 permalink: /2020/
 ---
-Coming soon!
+In progress...
 
-## [Module 1](2020_bootcamp_m1.md)
+### [Module 1](2020_bootcamp_m1.md)
