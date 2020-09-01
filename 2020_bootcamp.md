@@ -3,14 +3,19 @@ layout: page
 title: 2020
 permalink: /2020/
 ---
-This page is still in progress.
 
+---
 ### Learning goals
 
+1. Increase students’ understanding of and confidence with basic statistical concepts.
+2. Build students’ programming intuition and data management skills.
+3. Encourage collaboration and camaraderie among the graduate student cohort.
+4. Bring the grad school hidden curriculum out into the open.
 
-### Overview document
-
+---
 ### Modules
+An overview of the modules and their associated activities and deliverables is available [here](https://docs.google.com/document/d/1fYwDz-oTIk-24ZdpFIs-oaV-9oNZsfcZJMrMh4bXWV0/edit#).
+
 [Module 1](2020/2020_bootcamp_m1.md)
 
 Module 2
