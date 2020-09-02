@@ -25,3 +25,6 @@ Module 2
 Module 4
 
 [Module 5](2020/2020_bootcamp_m5.md)
+
+---
+Wish you could have bootcamp all year? **Check out this [tip sheet](https://docs.google.com/document/d/1gmDF8dwqPO3zmfmtK-ZlqKMPH821N7WQq-bJwMo6PLk/edit)** for a summary of Stata commands, coding best practices, and advice for the methods sequence and navigating Stanford Sociology.  
