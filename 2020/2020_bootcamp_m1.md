@@ -27,4 +27,6 @@ Stata workshop [handout](https://docs.google.com/document/d/1o_bondGoTSTnz9bxJgS
 - use a .do file to write reproducible code.  
 - begin to use functions to manipulate data (e.g. variable creation). 
 
-Download the Stata self-directed handout [here](StataWorkshop_Self-directedhandout(public).pdf). Read through the handout and complete all the activities in a well-annotated do file. Submit your do file to the Bootcamp Slack #module1 channel. Make a note of any questions/concerns you have, or anything you’d like feedback on. 
+Download the Stata self-directed handout [here](StataWorkshop_Self-directedhandout(public).pdf). Read through the handout and complete all the activities in a well-annotated do file. 
+You can refer to [this video](https://youtu.be/LpF0OkuhdiI) to help you get started.
+Submit your do file to the Bootcamp Slack #module1 channel. Make a note of any questions/concerns you have, or anything you’d like feedback on. 
