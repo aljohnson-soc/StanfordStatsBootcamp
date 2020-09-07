@@ -17,7 +17,7 @@ Nothing!
 - understand how data are stored in Stata.  
 - use logical if-statements to subset data. 
 
-Link to slides (coming soon!)
+[Link to slides](https://drive.google.com/file/d/105tvHum9GW5iTNCThG4mjx79S1cCMP8t/view?usp=sharing).
 
 Stata workshop [handout](https://docs.google.com/document/d/1o_bondGoTSTnz9bxJgS52EVVZArGABixCmM985AW77U/edit).
 
