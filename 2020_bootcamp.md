@@ -18,11 +18,11 @@ An overview of the modules and their associated activities and deliverables is a
 
 [Module 1](2020/2020_bootcamp_m1.md)
 
-Module 2
+[Module 2](2020/2020_bootcamp_m2.md)
 
 [Module 3](2020/2020_bootcamp_m3.md)
 
-Module 4
+[Module 4](2020/2020_bootcamp_m4.md)
 
 [Module 5](2020/2020_bootcamp_m5.md)
 
