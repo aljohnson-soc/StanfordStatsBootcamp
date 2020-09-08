@@ -14,7 +14,7 @@ permalink: /2020/M2
 - explain the difference between a population distribution, sample distribution, and a sampling distribution
 - tell a story in the scientific style using the concepts of “null hypothesis”, “repeated sampling”, and “statistical significance”
 
-Link to slides (coming soon!)
+[Link to slides](https://drive.google.com/file/d/1buufpQhcJKjITkdwVA4Cp-ziweABJh2i/view?usp=sharing).
 
 ---
 ### Post-session work
