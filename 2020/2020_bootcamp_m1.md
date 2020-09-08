@@ -19,7 +19,7 @@ Nothing!
 
 [Link to slides](https://drive.google.com/file/d/105tvHum9GW5iTNCThG4mjx79S1cCMP8t/view?usp=sharing).
 
-Stata workshop [handout](https://docs.google.com/document/d/1o_bondGoTSTnz9bxJgS52EVVZArGABixCmM985AW77U/edit).
+Stata workshop [handout](https://docs.google.com/document/d/1o_bondGoTSTnz9bxJgS52EVVZArGABixCmM985AW77U/edit). The key is available [here](https://drive.google.com/file/d/168Nzoyjvocfd8PSvfAnYktLyUpy-e_7e/view?usp=sharing).
 
 ---
 ### Post-session work
