@@ -19,7 +19,7 @@ permalink: /2020/M3
 ---
 ### Synchronous session
 **Learning objectives**
-- set up a workflow to use for SOC 381.
+- think about workflow.
 - become familiar with probability notation, probability distributions, and probability calculations.
 - connect between research questions and data visualizations.
 
