@@ -11,8 +11,8 @@ permalink: /2020/M5
 - be able to represent a prediction equation in matrix notation
 - understand, and interpret basic calculus relevant to a statistics context (e.g. limits, derivatives, integrals)
 
-1. Watch [this](ADD LINK) video on matrix algebra basics
-2. Watch [this](ADD LINK) video on calculus basics
+1. Watch [this](https://drive.google.com/file/d/1jBhWQH9EkuW_-5eVDS39Ihww111NDzlm/view?usp=sharing) video on matrix algebra basics
+2. Watch [this](https://drive.google.com/file/d/1CVdm76wjxVYPUpsKKSOiKE0I8FeyKmY2/view?usp=sharing) video on calculus basics
 3. Work through [these](https://docs.google.com/document/d/1ucxbH85yNPNKLHNutEDZSalZRFRq9qtNJW-sKh39pr8/edit?usp=sharing) practice exercises for matrix algebra and calculus basics. Post any questions to the Slack channel #module5. Solutions will be posted to #module5 after the synchonorous session.
 4. Brainstorm: What is one personal goal you have for this academic year? What is one grad-school-related goal you have for this academic year? Jot these down as a note to yourself; we will work with them during the synchronous session.
 
