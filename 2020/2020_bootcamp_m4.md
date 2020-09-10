@@ -22,7 +22,7 @@ Watch [this video](https://drive.google.com/file/d/1Qtcs2FnnxkTnIF0bcLwInSFHlZFl
 - understand the purpose of prediction equations and how to use them. 
 
 
-Link to slides (coming soon!)
+[Link to slides](https://drive.google.com/file/d/1bxuaSxu_KxJAbAaFsszOy4c3rjzOqSO9/view?usp=sharing).
 
 Variable categorization [exercise](https://docs.google.com/document/d/1fQqJLKpbM2aUIdBI5PYWzmYpArhbfwskOP4zhqvJYYQ/edit?usp=sharing). 
 
