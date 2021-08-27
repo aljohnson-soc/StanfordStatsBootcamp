@@ -12,6 +12,9 @@ permalink: /2019/
 
 *A PDF version of this overview for the 2019 Bootcamp is available [here](StatsBootcamp2019_Overview.pdf).*
 
+### Instructors
+Rebecca Gleit (rgleit@stanford.edu), Amy Johnson (aljohnson@stanford.edu) & Nick Sherefkin (nsherefkin@stanford.edu).
+
 ## Day 1
 ### Learning objectives
 ...understand the concept of growth mindset and how it applies to math.  

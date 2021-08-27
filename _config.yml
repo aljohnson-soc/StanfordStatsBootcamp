@@ -30,9 +30,10 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - about.markdown
   - 2019_bootcamp.md
   - 2020_bootcamp.md
+  - 2021_bootcamp.md
+  - about.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
